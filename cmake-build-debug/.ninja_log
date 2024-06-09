@@ -1,0 +1,11 @@
+# ninja log v5
+2751	2840	1717902996584293836	Expense_Tracker	1604ffd771a7d6b6
+4	2750	1717902996485548382	CMakeFiles/Expense_Tracker.dir/src/ExpenseManager.cpp.o	1fb3397ed0701e76
+6	2538	1717719094814605945	CMakeFiles/Expense_Tracker.dir/src/Expense.cpp.o	bd13ffdd5c67382
+5	145	1717718971056180326	CMakeFiles/Expense_Tracker.dir/src/Category.cpp.o	81273de4bad3c20
+5	2907	1717902487038366597	CMakeFiles/Expense_Tracker.dir/src/main.cpp.o	386c0e13a6eec9a
+27	154	1717903508912622318	CMakeFiles/Expense_Tracker.dir/src/Category.cpp.o	ddf3edc62b7ce03e
+26	1365	1717903510119250910	CMakeFiles/Expense_Tracker.dir/src/Expense.cpp.o	38d327300ed01e60
+26	1504	1717903510261506703	CMakeFiles/Expense_Tracker.dir/src/main.cpp.o	3b0580b60b62b8f3
+27	2664	1717903511417730365	CMakeFiles/Expense_Tracker.dir/src/ExpenseManager.cpp.o	762e9dcaf3c438a8
+2665	2752	1717903511513068381	Expense_Tracker	1604ffd771a7d6b6
